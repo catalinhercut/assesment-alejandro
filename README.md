@@ -4,7 +4,7 @@
 
 Using the provided **free Figma dashboard template**, your goal is to create a simple yet effective **client-side feature flag system**. You'll implement these flags to control the visibility of selected UI components from the provided dashboard mockup.
 
-This assignment tests your skills in **frontend architecture**, **conditional rendering**, **UX clarity**, and **decision-making** under limited time.
+This assignment tests your skills in **frontend architecture**, **conditional rendering** and **decision-making** under limited time.
 
 ---
 
@@ -28,7 +28,7 @@ This assignment tests your skills in **frontend architecture**, **conditional re
 - Provide a simple React hook or utility (e.g., `useFeatureFlag("enableDarkMode")`).
 - Enable URL-based overrides for testing (`?enableDarkMode=true`).
 
-#### **2. Simplified Dashboard UI Implementation (~50 min)**
+#### **2. Simplified Dashboard UI Implementation (~80 min)**
 - Build a minimal React layout based on the provided Figma mockup.
 - Clearly demonstrate conditional rendering via your feature flags.
 - Prioritize clear structure and readability over pixel-perfect styling.
@@ -41,7 +41,7 @@ This assignment tests your skills in **frontend architecture**, **conditional re
   - Total Revenue Card *(conditionally rendered via `showTotalRevenueCard`)*
   - Active Users Widget *(conditionally rendered via `showActiveUsersWidget`)*
 
-#### **3. Decision Journal (~30 min)**
+#### **3. Decision Journal (~10 min)**
 Briefly answer in your `README.md`:
 - Key assumptions you made.
 - Architectural decisions & reasoning behind them.
